@@ -134,20 +134,6 @@
     right: 0; /* Quando è aperto, lo sposta in vista */
   }
 
-  .close-button {
-    
-    cursor: pointer;
-    z-index: 2;
-  }
-
-  .close-icon
-  {
-    color: #F7F7F7;
-  }
-  .close-icon:hover
-  {
-    color: #5863F8;
-  }
   .sidebar-top
   {
     display: flex;
