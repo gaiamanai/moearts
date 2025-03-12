@@ -16,9 +16,9 @@
       </div></a
     >
     <div class="links">
-      <a href="/works">Works</a>
-      <a href="/about">About</a>
-      <a href="/contact">Contact</a>
+      <a href="/">Works</a>
+      <a href="/">About</a>
+      <a href="/">Contact</a>
     </div>
   </div>
   <button class="menu-button, compressed-menu" on:click={toggleMenu}>
@@ -37,9 +37,9 @@
     <a href="#" class="close-icon"><X size={32}/></a>
   </button> --></div>
   <div class="sidebar-voices">
-    <a class="sidebar-voice" href="/works">WORKS</a>
-    <a class="sidebar-voice" href="/about">ABOUT</a>
-    <a class="sidebar-voice" href="/contact">CONTACT</a>
+    <a class="sidebar-voice" href="/">WORKS</a>
+    <a class="sidebar-voice" href="/">ABOUT</a>
+    <a class="sidebar-voice" href="/">CONTACT</a>
   </div>
 </div>
 
